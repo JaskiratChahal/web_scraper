@@ -8,7 +8,6 @@ from collections import deque
 from bs4 import BeautifulSoup
 import pandas as pd
 # from google.colab import files
-# www.prscapital.co.uk
 # takes url from user
 url = input("Enter the website url: ")
 
